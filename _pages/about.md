@@ -3,7 +3,7 @@ permalink: /about/
 title: "Acerca"
 ---
 
-Versión 1. De la materia Base de Datos II.
+Materia Desarrollo de Aplicaciones Web. **UCOM351**
 
 Bienvenidos, invito a todos los lectores a enviar sus comentarios, observaciones y sugerencias!
 
