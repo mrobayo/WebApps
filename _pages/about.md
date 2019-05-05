@@ -7,9 +7,7 @@ Versión 1. De la materia Base de Datos II.
 
 Bienvenidos, invito a todos los lectores a enviar sus comentarios, observaciones y sugerencias!
 
-[Mario Robayo](https://mrobayo.github.com/profile)
-
-Docente
+**[Mario Robayo](https://mrobayo.github.com/profile)** Docente
 
 [Universidad Espíritu Santo](https://www.uees.edu.ec)
 
