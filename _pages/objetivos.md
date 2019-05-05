@@ -40,16 +40,18 @@ El curso proporcionará una base para diseñar e implementar sistemas de bases d
  - Se recomienda que intercambie ideas con otros estudiantes, lo que incluye examinar y criticar las soluciones de otros. 
  - Debes crear y entregar de forma independiente tu propio trabajo único. En particular, no puede copiar los archivos de otro estudiante ni dejar que otro estudiante copie sus archivos . 
  - Puede usar recursos externos (libros, sitios de Internet, etc.) como referencias, pero no puede copiar archivos o códigos de recursos externos, y debe citar claramente cualquier recurso externo que utilice.
- - Este curso tiene una política de trabajo tardío flexible: 
 
+
+### Este curso tiene una política de trabajos. 
+
+Lee con atención lo siguiente:
  
  - Todas las asignaciones vencen en las fechas especificadas a continuación y deben enviarse al comienzo de cada clase.
  - Una tarea se considera tarde si se envía después del comienzo de la clase. La fecha límite pueden extenderse hasta las 16H00 del mismo día con penalización del 50%.
  - No se aceptarán presentaciones tardías a menos que el instructor lo permita específicamente antes de la fecha límite.
- 
  - La propuesta del proyecto puede entregarse hasta dos días tarde sin penalización.
  - El punto de control del proyecto y la presentación final del proyecto deben completarse en la fecha de vencimiento asignada. 
- - No puede utilizar ninguna extensión para el punto de control del proyecto o la presentación final.
+ - No hay ninguna extensión para el punto de control del proyecto o la presentación final.
 
 ### Participación en clase:
 
