@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Objetivos y Políticas"
+    url: /objetivos/
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Semestre Ordinario I 2019"
+    url: /calendario/
+  - title: "Acerca"
     url: /about/
