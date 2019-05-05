@@ -46,7 +46,7 @@ El curso proporcionará una base para diseñar e implementar sistemas de bases d
 
 Lee con atención lo siguiente:
  
- - Todas las asignaciones vencen en las fechas especificadas a continuación y deben enviarse al comienzo de cada clase.
+ - Todas las asignaciones vencen en las fechas especificadas y deben enviarse al comienzo de cada clase.
  - Una tarea se considera tarde si se envía después del comienzo de la clase. La fecha límite pueden extenderse hasta las 16H00 del mismo día con penalización del 50%.
  - No se aceptarán presentaciones tardías a menos que el instructor lo permita específicamente antes de la fecha límite.
  - La propuesta del proyecto puede entregarse hasta dos días tarde sin penalización.
