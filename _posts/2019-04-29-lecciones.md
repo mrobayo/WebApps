@@ -2,7 +2,7 @@
 title: "Lecciones!"
 date: 2019-04-29T15:34:30-04:00
 categories:
-  - proyecto
+  - grading
 tags:
   - puntos
 ---
