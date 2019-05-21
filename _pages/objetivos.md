@@ -5,6 +5,7 @@ permalink: /objetivos/
 ---
 
 ## Introducción
+
 Este curso presenta una descripción completa de los conceptos, tecnologías y principios de creación web. A través de lecturas, clases, tareas y muchas horas de práctica, los estudiantes aprenderán los conceptos, herramientas de software y técnicas utilizadas en el diseño y desarrollo de aplicaciones web.
 
 El curso incluirá un proyecto que durará todo el curso. Las clases explorarán las herramientas de software, discusiones sobre lenguajes de codificación como JavaScript, Python y varios frameworks que juegan en los proyectos de diseño web del mundo real. Las actividades de clase y tareas similares que culminarán en un código válido, bien formado y basado en los estándares. A través de este ejercicio de codificación, los estudiantes obtendrán una comprensión de los muchos componentes de un sitio web moderno y funcional y cómo las piezas trabajan juntas.
