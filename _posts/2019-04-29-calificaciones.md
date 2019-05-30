@@ -11,22 +11,23 @@ Para evitar sorpresas inesperadas. A continuación se muestra el control de pres
 
 ## Control de Calificación Primera Parcial:
 
-Estudiante | T1 | T2 | T3 | Expo | Clase | Proy. Propuesta | Presentación
----------- | -- | -- | -- | ---- | ----- | --------------- | ------------
-BE.        |  0 |    |    |      |       |                 |
-CM.        |  5 |    |    |      |       |                 |
-CE.        |  0 |    |    |   5  | 2     |                 |
-GH.        |  5 |    |    |      |       |                 |
-GA.        |  1 |    |    |      |       |                 |
-GR.        |  3 |    |    |      |       |                 |
-LR.        |  4 |    |    |      |       |                 |
-MA.        |  0 |    |    |   4  |       |                 |
-MJ.        |  0 |    |    |   5  |       |                 |
-PL.        |  0 |    |    |      |       |                 |
-RD.        |  3 |    |    |      | 2     |                 |
-VO.        |  1 |    |    |      |       |                 |
-VE.        |  2 |    |    |      |       |                 |
-VA.        |  3 |    |    |   4  |       |                 |
-WJ.        |  0 |    |    |      |       |                 |
+Estudiante | T1 | T2 | T3 | Expo | Clase | L1 | Proy. Propuesta | Presentación
+---------- | -- | -- | -- | ---- | ----- | -- | ------------- | ------------
+BE.        |  0 |    |    |      |       | 2  |               |
+CM.        |  5 |    |    |      |       | 4  |               |
+CE.        |  0 |    |    |   5  | 2     | 0  |               |
+DG.        |  0 |    |    |      |       | 4  |               |
+GH.        |  5 |    |    |      |       | 10 |               |
+GA.        |  1 |    |    |      |       | 0  |               |
+GR.        |  3 |    |    |      |       | 4  |               |
+LR.        |  4 |    |    |      |       | 6  |               |
+MA.        |  0 |    |    |   4  |       | 4  |               |
+MJ.        |  0 |    |    |   5  |       | 2  |               |
+PL.        |  0 |    |    |      |       | 0  |               |
+RD.        |  3 |    |    |      | 2     | 4  |               |
+VO.        |  1 |    |    |      |       | 4  |               |
+VE.        |  2 |    |    |      |       | 4  |               |
+VA.        |  3 |    |    |   4  |       | 2  |               |
+WJ.        |  0 |    |    |      |       | 4  |               |
 
 
